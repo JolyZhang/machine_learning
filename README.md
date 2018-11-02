@@ -1,68 +1,48 @@
+MACHINE LEARNING.  
 
-ooooo*******ooooooo`*^*=**=ooooo***ooooo/ooooo/oOOOOOOOOOooooooo**oOo/**,o***.*..*/*`*=oooooooo\o\oooo
-......**..*.......******oooo*******=OOooooooooooooooooo***oooOOOOOOOOOOOOOOOOOOOOOOOOOOooooo***/****.*...*=o\/ooooooooooooooo
-..........,........*****,[[**....***ooo[`*********[[[[/,oOOOOO@@@@@@@@@@@@@@@@@@@@OOOOOOOo^******=o*.*...=ooooooooooooooooooo
-.....**...*.........********......**=oo]*************]/OOOO@@@@O@@@@@@@@@@@@@@@@@OOOOOOOOO\*********.....********,[[[\[[[[[[[
-.....**.............********.......**oooooo*******oooOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOO^******......*********=^********
-......*...............******.......*********.....*,OoOOOO@O@@@@@@@OOOOO@@@@@@@@@@@@@@@@@@@@OOO/o/[`**.....******ooo^ooooooo/*
-..............................................**,[oOOOO@@@@OOOOOOOOOOOOOOOOOOOOO@@@@@@@@@@@@OO\**..*..............*.*******..
-....,.............................................OOOOO@@OOOooOOOooooOOOOOOOOOOOOOOO@@@@@@@@OOO..............................
-....********....................................*OOOOOOOoooooooooooooOOOOOOOOOOOOOOOOOOO@@@@OOO^........  ...................
-........................................        .OOOOOoo`*o\ooooooooooOOOOOOOOOOOOOOOOOOO@@@OOO`            .****************
-........................                        /OOOOoo****=ooooooooooooOOOOOOOOOOOOOOOOOOO@OOO^                   ..........
-.......................                        =OOOOo******,ooooo/[\oooooooooooOOOOOOOOOOOOOOOOO^     ....                   
-....................                           /OOOo^*************]]**,\/o]]]`**oooOOOOOOOOOOOOOO     .....                  
-....................                          .OOOO/****,]ooooo/ooooooooooooooooooooOOOOOOOOOOOO^     .....                  
-....................                           =OO/***=ooOOOOOOOOOOOooooOOOOOOOOOOOOOOOOOOOOOOOO^     .....                  
-...................                            .OO`***,ooooooOOOOOOOooOOOOOOOOOOOOOOOOOOOOOOOOOO.      .....                 
-....................                            oO*,]]]]]oooOOOOOoooooOOOOOOOOoOOOOOOOOOOOOOOOO^       .....                 
-...................                             =OoO\]`.*oOOOOOOOO/\oooOOOOOOOOOOOOOOOOOOOOOOOO        .....                 
-...................                             .^O^.*]ooOOOOOOOOooOOOOOO@OOOOOOOOOOOOOOOOOOOO         .....                 
-...................                           ..\^.****,oooooOOOooOOO^*\OOOOOOOOOOOOOOOOOoOO/..        ......                
-...................                           =^,*.******\oooooo[\oO`**\OOOOOOOOOOOOOOOoooOoOOO^        .....                
-...................                           ,`*....****oo/oo/*********oOOOOOOOOOOOOOOooOOoOOO`        .....                
-..................                            ..*.....************`***oooOOOOOOOOOOOOOOOOOOoOO^         .....                
-..................                             .`.......****,/o`***..,oOOOOOOOOOOOOOOOOOOOOOOO          ......               
-..................                             .........***=ooo^,/OO^oOOO@OOOOOOOOOOOOOOOOOOO^          ......               
-................                                ........***[**,oooooooOOOOOOOOOOOOOOOOOOOOOo^           ......               
-                                                 .......******`ooooooOOOOOOOOOOOOOOOOOOOOOOo.           ......               
-...........                                      ........**ooooooooooOOOOOOOOOOOOOOOOOOOOO^              ......              
-.............                                     .......*oOO`**/ooOOOOOOOOOOOOOOOOOOOOOOo.              ......              
-.............                                     .......*oO/[\oOOOOOOOOOOOOOOOOOOOOOOOOO^               ......              
-............                                       ......*,`******ooOOOOOOOOOOOOOOOOOOOO^                .......             
-......                                               .....*******ooOOOOOOOOOOOOOOOOOOOO`                 .......             
-...........                                           .....*****\oooOOOOOOOOOOOOOOOOOO`                   ......            .
-...........                                            ...**.*****ooOOOOOOOOOOOOOOOOOO.                  ....................
-..........................................................*****=]oooOOOOOOOOOOOOOOOOOO.............     .....................
-..................................................... ......*,oOOOOOOOOOOOOO@OOOOOOOOO.......................................
-.........                                               .....**\ooOOOOOOOOOOOOOOOOOOOO\`                    .................
- ....                                                   ......****ooOOOOOOOOOOOOOOOOOOOOO\oO]`             . ................
- ...                                                  ........****=ooOOOOOOOOOOOOOOOOOOOOOoOO@@@OOO]`      . ................
- ..                                               ,`..*......******oooOOOOOOOOOOOOOOOOOOOOOoO@@@@@@@@@@@OOO]]`...............
- ..                                           ]OOOO^.*`......******=ooOOOOOOOOOOOOOOOOOOOOooO@@@@@@@@@@@@@@@@@@OOOOOOOO@@@\..
-...                                         ,OOOOOO^.*\**********`=ooooOOOOOOOOOOOOOOOOOOOooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@O
-...                                    ...*\OOOOOOO^**=\********ooooooOOOOOOOOOOOOOOOOOOOoooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-...                              .`..********,OOOOOO**=Oo*****,oooooOOOOOOOOOOOOOOOOOOoooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-...                      ,/OO\/OOO^***]ooooooooOOOOO\]*oOoo\]ooooooOOOOOOOOOOOOOOOOooooooooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-...                    /OOOOOOOOO`*/ooooOOOOOoooO@@@OoooOOoooooooooOOOOOOOOooooOOOOooooooooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..                   ,OOOOOOOOOO^*/ooOOOOOOOOOOOO@@@@Ooo/OoooooooooOOOOOOOoooooOOOOoooooooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..                 ,OOOOOOOOOOO/*,oOOOOOOOOOOOOOOO@@@@OoooOOoooooooOOOOOOOooooooOOooooooooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..               ,OOOOOOOOOOOOO^,oOOOOOOOOOOOOOOOO@@@@@OoooOOoooooOOOOOOOoooooooooooooooOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..   .         ./OOOOOOO@@@@@O/*=OOOOOOOOOOOOOOOOO@@@@@@OoooOOOOOOOOOOOOOoOooooooooooooOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-... ..        /OOOOOO@@@@@@@@O`*oOOOOOOOOOOOOOOOOO@@@@@@@OooooOOOOOOOOOOOoooooooooooOoOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.......     ,OOOOOO@@@@@@@@@@^*=oOOOOOOOOOOOOOOOOO@@@@@@@@@OOooOOOOOOOOOoooooooooooOoOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.........../OOOOO@@@@@@@@@@@O**oOOOOOOOOOOOOOOOOOO@@@@@@@@@@OOOooOOOOOOOOOOOooooOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..........OOOOO@@@@@@@@@@@@@^*=oOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@OOOOOOOOOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.........OOOOO@@@@@@@@@@@@@O**ooOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@OOOOOOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-........OOO@@@@@@@@@@@@@@@@O*=oOOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@OOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.......=OO@@@@@@@@@@@@@@@@@O*=oOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@OOOOOOoOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.......OOO@@@@@@@@@@@@@@@@@O*=oOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-......=OOOO@@@@@@@@@@@@@@@@O*ooOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-.....,OO@@@@@@@@@@@@@@@@@@^**ooOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..../OOO@@@@@@@@@@@@@@@@/***/ooOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-..=OOOOO@@@@@@@OOOOO@Oo/oooooOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-*OO/[`***,[[*******,]/oOOOOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-***********,[[oooooooooOOOOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-oo\`******ooooooooooOOOOOOOOOOOOOOO@@@@OOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-ooooooo\o=ooooooooooOOOOOOOOOOOOO@@@@@@OOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                            JOLY ZHANG NOV 2,2018
+*...=OOOOoooo********o^*OOOOoooooooo^*[ooOO***OO
+o...*OOOOOooo^*******\=**OOOoooooooo[\]/ooOo^*OOO
+....*OOOOOOOooooooooooo`=OOOooooooooooooOOOoo/OOO
+....=OOOOOOoooooooooooo`=OOOOOooooooooOOOOooOOOOo
+....,[[OOOOo/\oooooooOo^/OOOOOOooooOoOOooOoOOOO\o
+....**...........................[[[[[[[[ooOOO`*O
+....,oo[[`*,]]`***********..............[[[[[****
+.....*^****=^***********oooooooooooooo..\ooo/=ooo
+......******^**.....*****,[[[[[ooooooo..=oo^,oooo
+......**********................******...***`****
+........***..*]]*...*....................*,******
+........***...,***..**.****]]]O]`***......***,***
+..........*....*.....*/OOOOOOOOOOOO`......*******
+. ................../OOOOOOOOOOOOOOOO*.......**..
+  .................,OO/*,`\oooOoOOOOO^    .......
+   .               /O*.*****\ooOOOOOO^           
+                   O^.*`******,**ooOOO           
+                   \..**oo/=OOOOOOOoO^           
+                   ,`.\OO/\]/OOOOOOO/            
+                  .....**...=oOooo\/o^           
+                   .....*..,oOOoooOo/            
+                    .....**oOOooOOOo             
+                    .../`]]oOOOOOOO.             
+                     .....=OOOOOOO`              
+                      ....=oOOOOO/               
+..                    ...[oOOOOOOO          .....
+                     .....*=OOOOOOo^OOO\]` ......
+                 ,OO^.....*=oOOOOOo^O@@@@OOOOO@O\
+           `,`..**=O\*^.**=ooOooo`**O@@@@@@@@@@@@
+        ,OOOO.=oOooOO^=`**=oo^*oo**=@@@@@@@@@@@@@
+       OOOOO^=OOOOOO@@^,o\oooo^*,`/O@@@@@@@@@@@@@
+     /OOOOO/.oOOOOOO@@@\\\oooo\/ooO@@@@@@@@@@@@@@
+.   OOOOOO@^=OOOOOOO@@@@@OoOOooooO@@@@@@@@@@@@@@@
+...=OOOO@@@^=OOOOOO@@@@@@@@OOOOO@@@@@@@@@@@@@@@@@
+..,OOOO@@@/./OOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+./[[[[[*[]]oOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+**..****/OOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+**]`******[OOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ooooo\]`*****\OOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+oooooooooo\`***=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OOOOooooooooooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OOOOOOOOOOOoOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OOOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OOOOOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@O/
 
